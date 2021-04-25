@@ -18,3 +18,5 @@
 | DIM +         | FF5AA5        |
 | DIM -         | FF10EF        |
 | Repeat        | FFFFFFFF      |
+
+Decode type: NEC
