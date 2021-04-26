@@ -19,5 +19,5 @@
 | DIM -         | FF10EF        |
 | Repeat        | FFFFFFFF      |
 
-Decode type: NEC
+Decode type: NEC  
 ESP32-PIN: G4
