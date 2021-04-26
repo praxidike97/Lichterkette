@@ -20,3 +20,4 @@
 | Repeat        | FFFFFFFF      |
 
 Decode type: NEC
+ESP32-PIN: G4
